@@ -1,1 +1,9 @@
-icebreakr: A Web Application Blog
+🚧 WIP 🚧
+
+icebreakr🧊: A Web Application Blog 
+
+**Built With**
+- NextJS
+- TailwindCSS
+- GraphQL
+- GraphCMS
